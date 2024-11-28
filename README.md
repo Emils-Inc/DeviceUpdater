@@ -2,6 +2,9 @@
 
 無線版Kaikoと付属のドングルのファームウェアをアップデートするためのツールです。このツールを起動した状態でPCに直接USBで接続するとアップデートが自動的に開始されます。
 
+## ダウンロード
+[Download](https://github.com/Emils-Inc/DeviceUpdater/releases/download/1.3/emils_updater_cli_1.3.exe)
+
 ## 使用方法
 
 1. 本ツールをダウンロードして起動します。
